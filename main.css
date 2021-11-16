@@ -631,6 +631,10 @@ button{
         font-size: 38px;
     }
 
+    .portfolio__item{
+        margin-left: 370px;
+    }
+
     .about-me__section-title{
         font-size: 90px;
         top: 84px;
